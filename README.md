@@ -11,7 +11,7 @@
 ###
 <br>
 <div align="left">
-  <p><b>Languages and Tools:</b></p>
+  <h2>Languages and Tools:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
