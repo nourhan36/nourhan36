@@ -9,7 +9,6 @@
 </div>
 
 ###
-<br>
 <div align="left">
   <h2>Languages and Tools:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -22,7 +21,6 @@
 </div>
 
 ###
-<br>
 <div align="left">
   <h1>Connect with me:</h1>
   <a href="https://www.linkedin.com/in/nourhan-ibrahim-93a928258/" target="_blank">
